@@ -1,0 +1,66 @@
+AI AND MACHINE LEARNING LAB PRACTICALS
+=====================================
+
+Subject: Artificial Intelligence and Machine Learning
+Practical Experiments: 1–12
+
+EXPERIMENT LIST
+---------------
+
+Experiment 01: Breadth First Search (BFS)
+CO: CO1, CO2
+
+Experiment 02: A* Search Algorithm
+CO: CO1, CO2
+
+Experiment 03: Tic-Tac-Toe Game Implementation
+CO: CO1, CO2
+
+Experiment 04: Setting Up Machine Learning Environment Using Anaconda and Jupyter Notebook
+CO: CO1, CO3
+
+Experiment 05: Implementation of Basic Python Libraries (Math, NumPy, SciPy, Pandas, Matplotlib and Seaborn)
+CO: CO1, CO3
+
+Experiment 06: Data Preprocessing Using Python/R (Missing Values, Encoding and Normalization)
+CO: CO4, CO5
+
+Experiment 07: Automobile Fuel Efficiency Prediction Using Linear Regression
+CO: CO4, CO5
+
+Experiment 08: Logistic Regression for Breast Cancer Classification
+CO: CO4, CO5
+
+Experiment 09: Bayesian Classification on the Iris Dataset
+CO: CO4, CO5
+
+Experiment 10: Heart Disease Prediction Using Decision Tree and Random Forest
+CO: CO4, CO5
+
+Experiment 11: K-Means Clustering on a Multidimensional Dataset
+CO: CO4, CO5
+
+Experiment 12: Hierarchical Clustering on the Iris Dataset
+CO: CO4, CO5
+
+
+FOLDER ORGANIZATION
+-------------------
+
+Experiment-01/
+Experiment-02/
+Experiment-03/
+Experiment-04/
+Experiment-05/
+Experiment-06/
+Experiment-07/
+Experiment-08/
+Experiment-09/
+Experiment-10/
+Experiment-11/
+Experiment-12/
+
+
+NOTE:
+Each experiment folder contains its respective source code,
+Jupyter Notebook, dataset (if required), and practical documentation.
